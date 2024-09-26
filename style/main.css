@@ -1,0 +1,11 @@
+html{
+    background-color: black;
+}
+.left-nav {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 200px; /* Adjust the width as needed */
+    background-color: #f0f0f0;
+}

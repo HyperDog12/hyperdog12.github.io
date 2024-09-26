@@ -1,0 +1,2 @@
+embeds html-classic.itch.zone/html/11183255/index.html
+source mcred2024.github.io
