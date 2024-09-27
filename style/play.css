@@ -6,8 +6,8 @@ html{
 .play{
     height: 100vh;
     width: 15%;
-    position: float;
-    float: right;;
+    position: absolute;
+    float: right;
     background-color: #486F81;
 }
 img{
