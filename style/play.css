@@ -4,10 +4,10 @@ html{
     width: 100%;
 }
 .play{
-    position: absolute;
     height: 100vh;
     width: 15%;
-    float: right;
+    position: float;
+    float: right;;
     background-color: #486F81;
 }
 img{
