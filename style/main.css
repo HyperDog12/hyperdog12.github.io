@@ -2,7 +2,7 @@ html{
     background-color: black;
 }
 .left-nav {
-    position: fixed;
+    position: absolute;
     left: 0;
     top: 0;
     height: 100vh;
