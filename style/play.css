@@ -10,3 +10,6 @@ html{
     float: right;
     background-color: #486F81;
 }
+img{
+  object-fit: contain;
+}
