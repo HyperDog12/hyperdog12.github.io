@@ -1,9 +1,10 @@
 html{
-    background-color: darkslategray;
+    background-color: #123443;
     height: 100%;
     width: 100%;
 }
 .play{
     position: fixed;
-    align-self: center;
+    float: right;
+    background-color: #486F81;
 }
