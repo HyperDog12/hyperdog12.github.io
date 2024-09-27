@@ -11,5 +11,5 @@ html{
     background-color: #486F81;
 }
 img{
-  object-fit: contain;
+  max-width: 100%;
 }
